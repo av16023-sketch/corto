@@ -1,1 +1,1 @@
-hola
+create DATABASE cortodb;
